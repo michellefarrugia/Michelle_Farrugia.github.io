@@ -3,9 +3,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
-
-*{
     font-family: "rockwell", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -56,3 +53,128 @@ header nav ul li a:hover{
     color: #9ec1d7;
 }
 
+.btn-custom-light {
+    --bs-btn-color: #16465a;
+    --bs-btn-bg: #edf1ee;
+    --bs-btn-border-color: #edf1ee;
+    --bs-btn-hover-color: #9ec1d7;
+    --bs-btn-hover-bg: #edf1ee;
+    --bs-btn-hover-border-color: #edf1ee;
+    --bs-btn-focus-shadow-rgb: 130, 138, 145;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #565e64;
+    --bs-btn-active-border-color: #51585e;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #6c757d;
+    --bs-btn-disabled-border-color: #6c757d;
+  }
+
+  .btn{
+    border-radius: 0px;
+  }
+
+  .photographynav{
+    right: 150px;
+    width: 200px;
+  }
+
+  .signupbutton{
+    position: absolute;
+    top: 30px;
+    right: 80px;
+    width: 120px;
+    height: 50px;
+  }
+
+  .welcometitle{
+    position: absolute;
+    top: 194px;
+    left: 600px;
+    color: #edf1ee;
+}
+  
+  .Homepageimage{
+      top: 123px;
+      height: 627px;
+      object-fit: cover;
+      width: 100%;
+    }
+
+  .aboutmetitle{
+    color: #16465a;
+    position: absolute;
+    top: 813px;
+    left: 80px;
+  }
+
+  .earthicon{
+    position: absolute;
+    top: 956px;
+    left: 140px;
+    width: 122px;
+    height: 122px;
+  }
+
+  .earthtext{
+    color: #16465a;
+    position: absolute;
+    top: 956px;
+    left: 297px;
+    display: inline-block;
+    width: 276px;
+  }
+
+  .foodicon{
+    position: absolute;
+    top: 952px;
+    left: 691px;
+    width: 130px;
+    height: 104.1px;
+  }
+
+  .foodtext{
+    color: #16465a;
+    position: absolute;
+    top: 956px;
+    left: 830px;
+    height: 122px;
+    display: inline-block;
+    width: 276px;
+  }
+
+  .bookicon{
+    position: absolute;
+    top: 1189.54px;
+    left: 139.78px;
+    width: 122.2px;
+    height: 93.5px;
+  }
+
+  .booktext{
+    color: #16465a;
+    position: absolute;
+    top: 1189px;
+    left: 297px;
+    display: inline-block;
+    width: 276px;
+  }
+
+  .cameraicon{
+    position: absolute;
+    top: 1188.06px;
+    left: 693px;
+    width: 121px;
+    height: 105.9px;
+  }
+
+  .cameratext{
+    color: #16465a;
+    position: absolute;
+    top: 1189px;
+    left: 830px;
+    display: inline-block;
+    width: 276px;
+  }
+
+  

@@ -111,7 +111,7 @@ header nav ul li a:hover{
   .earthicon{
     position: absolute;
     top: 956px;
-    left: 140px;
+    left: 80px;
     width: 122px;
     height: 122px;
   }
@@ -120,7 +120,7 @@ header nav ul li a:hover{
     color: #16465a;
     position: absolute;
     top: 956px;
-    left: 297px;
+    left: 230px;
     display: inline-block;
     width: 276px;
   }
@@ -128,7 +128,7 @@ header nav ul li a:hover{
   .foodicon{
     position: absolute;
     top: 952px;
-    left: 691px;
+    left: 540px;
     width: 130px;
     height: 104.1px;
   }
@@ -137,7 +137,7 @@ header nav ul li a:hover{
     color: #16465a;
     position: absolute;
     top: 956px;
-    left: 830px;
+    left: 680px;
     height: 122px;
     display: inline-block;
     width: 276px;
@@ -146,7 +146,7 @@ header nav ul li a:hover{
   .bookicon{
     position: absolute;
     top: 1189.54px;
-    left: 139.78px;
+    left: 80px;
     width: 122.2px;
     height: 93.5px;
   }
@@ -155,7 +155,7 @@ header nav ul li a:hover{
     color: #16465a;
     position: absolute;
     top: 1189px;
-    left: 297px;
+    left: 230px;
     display: inline-block;
     width: 276px;
   }
@@ -163,7 +163,7 @@ header nav ul li a:hover{
   .cameraicon{
     position: absolute;
     top: 1188.06px;
-    left: 693px;
+    left: 540px;
     width: 121px;
     height: 105.9px;
   }
@@ -172,9 +172,90 @@ header nav ul li a:hover{
     color: #16465a;
     position: absolute;
     top: 1189px;
-    left: 830px;
+    left: 680px;
     display: inline-block;
     width: 276px;
   }
 
-  
+  .aboutmeimage{
+    top: 866px;
+    position: absolute;
+    bottom: 45px;
+    width: 420px;
+    height: 400px;
+    object-fit: cover;
+    left: 980px;
+    right: 200px;
+  }
+
+  .subscribebannerbox{
+    position: absolute;
+    bottom: -750px;
+    left: 0px;
+    background-color: #9EC1D7;
+    width: 1500px;
+    height: 100px;
+  }
+
+  .subscribe{
+    position: absolute;
+    bottom: -760px;
+    left: 80px;
+    width: 1920px;
+    height: 75px;
+    font-size: 30px;
+    font-weight: lighter;
+  }
+
+  .subscribebutton{
+    padding: 1px 5px;
+    position: absolute;
+    bottom: -715px;
+    right: 100px;
+    background-color: #654039;
+    color: #edf1ee;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+    font-family: "rockwell", sans-serif;
+    font-size: 35px;
+  }
+
+/* Footer Styling */
+footer{
+  width: 100%;
+  background-color: #16465A;
+  top: 500px;
+  height: 100px;
+  display: flex;
+  padding: 0px 20px;
+  position: static;
+}
+
+footer div {
+  flex: 1;
+}
+
+footer nav ul{
+  margin-bottom: 20px; 
+  display: flex;
+}
+
+footer nav li{
+  text-align: center;
+  list-style: none;
+  margin-top: 30px;
+}
+
+footer nav ul li a{
+  color: #ECF1ED;
+  text-decoration: none;
+}
+
+footer nav ul li a:hover{
+  color: #9EC1D7;
+}
+
+.footerimage{
+  width: 10%;
+}

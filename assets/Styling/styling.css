@@ -8,8 +8,12 @@
     font-style: normal;
 }
 
+body{
+  padding-bottom: 120px;
+}
+
 /* Flex places the element next to eachother */
-header nav{
+nav{
     display: flex;
     height: 100px;
     width: 100%;
@@ -17,29 +21,29 @@ header nav{
 }
 
 /* This is to assign the styling to the image class */
-header nav .imageDiv{
+nav .imageDiv{
     height: 100%;
     padding: 5px;
     padding-left: 40%;
 }
 
-header nav .imageDiv img{
+nav .imageDiv img{
     height: 100%;
 }
 
-header nav ul{
+nav ul{
     display: flex;
     flex-grow: 1;
     list-style: none;
     height: 100%;
 }
 
-header nav ul li{
+nav ul li{
     height: 100%;
     width: 100%;
 }
 
-header nav ul li a{
+nav ul li a{
     color: #edf1ee;
     text-decoration: none;
     font-size: 15px;
@@ -49,7 +53,7 @@ header nav ul li a{
     text-align: center;
 }
 
-header nav ul li a:hover{
+nav ul li a:hover{
     color: #9ec1d7;
 }
 
@@ -193,7 +197,7 @@ header nav ul li a:hover{
     bottom: -750px;
     left: 0px;
     background-color: #9EC1D7;
-    width: 1500px;
+    width: 1450px;
     height: 100px;
   }
 
@@ -228,7 +232,9 @@ footer{
   background-color: #16465A;
   padding: 0px 10px;
   text-decoration: none;
-  bottom: -1000px;
+  position: fixed;
+  bottom: 0px;
+  height: 120px;
 }
 
 footer div {

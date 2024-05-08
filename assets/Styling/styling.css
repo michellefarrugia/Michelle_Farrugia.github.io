@@ -279,7 +279,7 @@ footer img{
 .tipstitle{
   position: absolute;
   top: 194px;
-  left: 650px;
+  left: 640px;
   color: #edf1ee;
 }
 
@@ -696,7 +696,7 @@ button[type="submit"] {
 }
 
 
-/* Focus Blog Pag - Sicily */  
+/* Focus Blog Page - Sicily */  
   
 .return{
   color: #16465A;
@@ -762,11 +762,142 @@ button[type="submit"] {
   left: 50px;
 }
 
-/* Focus Blog Pag - Vienna */  
+/* Focus Blog Page - Vienna */  
   
 .blogtitleV{
   color: #16465A;
   padding-top: 70px;
   padding-left: 50px;
   font-size: 50px;
+}
+
+/* Focus Blog Page - Sofia */  
+  
+.blogtitleSo{
+  color: #16465A;
+  padding-top: 70px;
+  padding-left: 50px;
+  font-size: 50px;
+}
+
+/* Focus Blog Page - Rome */  
+  
+.blogtitleR{
+  color: #16465A;
+  padding-top: 70px;
+  padding-left: 50px;
+  font-size: 50px;
+}
+
+/* Focus Blog Page - Milan */ 
+
+.Blogtitle{
+  position: absolute;
+  top: 194px;
+  left: 630px;
+  color: #16465a;
+}
+  
+.blogtitleM{
+  color: #16465A;
+  padding-top: 70px;
+  padding-left: 50px;
+  font-size: 50px;
+}
+
+/* Focus Blog Pag - Milan */  
+
+.blogpageimage1{
+  position: absolute;
+  top: 650px;
+  left: 0;
+  width: 650px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.blogpara1{
+  margin: 0;
+  position: absolute;
+  color: #16465A;
+  font-family: Helvetica, sans-serif;
+  display: inline-block;
+  width: 600px;
+  height: 373px;
+  top: 650px;
+  right: 100px;
+}
+
+.blogpageimage2{
+  position: absolute;
+  right: 0.5px;
+  top: 1100px;
+  width: 650px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.blogpara2{
+  margin: 0;
+  position: absolute;
+  color: #16465A;
+  font-family: Helvetica, sans-serif;
+  display: inline-block;
+  width: 600px;
+  height: 373px;
+  top: 1100px;
+  left: 50px;
+}
+
+.milancircle{
+  position: absolute;
+  width: 20%;
+  top: 250px;
+  right: 0;
+  left: 30px;
+}
+
+.sicilycircle{
+  position: absolute;
+  width: 20%;
+  top: 250px;
+  left: 300px;
+}
+
+.viennacircle{
+  position: absolute;
+  width: 20%;
+  top: 250px;
+  right: 0;
+  left: 560px;
+}
+
+.romecircle{
+  position: absolute;
+  width: 20%;
+  top: 250px;
+  right: 0;
+  left: 820px;
+}
+
+.sofiacircle{
+  position: absolute;
+  width: 20%;
+  top: 250px;
+  right: 0;
+  left: 1100px;
+}
+
+.linkspages{
+  display: flex;
+  text-decoration: none;
+}
+
+.sicilylink{
+  color: #16465A;
+  position: absolute;
+  text-decoration: none;
+  font-size: 30px;
+  top: 550px;
+  left: 400px;
 }

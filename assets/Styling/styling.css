@@ -898,6 +898,42 @@ button[type="submit"] {
   position: absolute;
   text-decoration: none;
   font-size: 30px;
-  top: 550px;
+  top: 530px;
   left: 400px;
+}
+
+.milanlink{
+  color: #16465A;
+  position: absolute;
+  text-decoration: none;
+  font-size: 30px;
+  top: 530px;
+  left: 130px;
+}
+
+.viennalink{
+  color: #16465A;
+  position: absolute;
+  text-decoration: none;
+  font-size: 30px;
+  top: 530px;
+  left: 650px;
+}
+
+.romelink{
+  color: #16465A;
+  position: absolute;
+  text-decoration: none;
+  font-size: 30px;
+  top: 530px;
+  left: 920px;
+}
+
+.sofialink{
+  color: #16465A;
+  position: absolute;
+  text-decoration: none;
+  font-size: 30px;
+  top: 530px;
+  left: 1205px;
 }

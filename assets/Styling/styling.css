@@ -225,47 +225,6 @@ nav ul li a:hover{
     font-size: 35px;
   }
 
-/* Footer Styling */
-footer{
-  display: flex;
-  width: 100%;
-  background-color: #16465A;
-  padding: 0px 10px;
-  text-decoration: none;
-  position: fixed;
-  bottom: 0px;
-  height: 90px;
-}
-
-footer div {
-  flex: 5;
-}
-
-footer nav ul{
-  margin-bottom: 20px;
-  display: flex;
-  text-align: center;
-}
-
-footer nav li{
-  list-style: none;
-  margin-top: 20px;
-  display: flex;
-}
-
-footer nav ul li a{
-  color: #edf1ee;
-  text-decoration: none;
-}
-
-footer nav ul li a:hover{
-  color: #9EC1D7;
-}
-
-footer img{
-  width: 30%;
-}
-
 
 /* Tips page styling*/
 

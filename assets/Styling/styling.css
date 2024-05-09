@@ -937,3 +937,62 @@ button[type="submit"] {
   top: 530px;
   left: 1205px;
 }
+
+
+
+
+
+.footerimagelogo{
+  position: absolute;
+  bottom: -1885px;
+  margin-left: 25px;
+  width: 20%;
+}
+
+.footerlinks1 ul{
+  position: absolute;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  margin-left: 550px;
+}
+
+.footerlinks1 ul li{
+  display: inline-block;
+  margin: 0 10px;
+  margin-top: 2480px;
+}
+
+.footerlinks1 ul li a{
+  text-decoration: none;
+  color: #edf1ee;
+  display: block;
+}
+
+.footerbox{
+  position: absolute;
+  bottom: -1935px;
+  left: 0px;
+  background-color: #16465A;
+  width: 100%;
+  height: 130px;
+}
+.socials{
+  display: flex;
+  position: absolute;
+  bottom: -1880px;
+  left: 1100px;
+}
+
+.social-media-link a{
+  margin-left: 30px;
+}
+
+.footerlinks1 ul li a:hover{
+  color: #9EC1D7;
+}
+
+.social-media-link img{
+  width: 40px;
+}
+

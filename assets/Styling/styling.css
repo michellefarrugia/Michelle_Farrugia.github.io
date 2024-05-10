@@ -457,8 +457,7 @@ input[type="email"]{
 }
 
 input[type="email"]::placeholder {
-  /* Change color of placeholder text */
-  color: #edf1ee; /* Change color to desired color */
+  color: #edf1ee;
 }
 
 button[type="submit"] {
@@ -469,7 +468,7 @@ button[type="submit"] {
   border: none;
   border-radius: 0px;
   left: 150px;
-  top: 700px;
+  top: 500px;
   font-family: "rockwell", sans-serif;
   font-size: 35px;
 }
@@ -899,7 +898,7 @@ button[type="submit"] {
 
 
 
-
+/*footer photography*/
 
 .footerimagelogo{
   position: absolute;
@@ -919,7 +918,7 @@ button[type="submit"] {
 .footerlinks1 ul li{
   display: inline-block;
   margin: 0 10px;
-  margin-top: 2480px;
+  margin-top: 2500px;
 }
 
 .footerlinks1 ul li a{
@@ -955,3 +954,224 @@ button[type="submit"] {
   width: 40px;
 }
 
+/*footer index*/
+
+.footerimagelogoindex{
+  position: absolute;
+  bottom: -920px;
+  margin-left: 25px;
+  width: 20%;
+}
+
+.footerlinks1index ul{
+  position: absolute;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  margin-left: 550px;
+}
+
+.footerlinks1index ul li{
+  display: inline-block;
+  margin: 0 10px;
+  margin-top: 900px;
+}
+
+.footerlinks1index ul li a{
+  text-decoration: none;
+  color: #edf1ee;
+  display: block;
+}
+
+.footerboxindex{
+  position: absolute;
+  bottom: -960px;
+  left: 0px;
+  background-color: #16465A;
+  width: 100%;
+  height: 130px;
+}
+.socialsindex{
+  display: flex;
+  position: absolute;
+  bottom: -900px;
+  left: 1100px;
+}
+
+.social-media-linkindex a{
+  margin-left: 30px;
+}
+
+.footerlinks1index ul li a:hover{
+  color: #9EC1D7;
+}
+
+.social-media-linkindex img{
+  width: 40px;
+}
+
+/*footer blogpage*/
+
+.footerimagelogoblogs{
+  position: absolute;
+  bottom: -900px;
+  margin-left: 25px;
+  width: 20%;
+}
+
+.footerlinks1blogs ul{
+  position: absolute;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  margin-left: 550px;
+}
+
+.footerlinks1blogs ul li{
+  display: inline-block;
+  margin: 0 10px;
+  margin-top: 1530px;
+}
+
+.footerlinks1blogs ul li a{
+  text-decoration: none;
+  color: #edf1ee;
+  display: block;
+}
+
+.footerboxblogs{
+  position: absolute;
+  bottom: -960px;
+  left: 0px;
+  background-color: #16465A;
+  width: 100%;
+  height: 130px;
+}
+.socialsblogs{
+  display: flex;
+  position: absolute;
+  bottom: -900px;
+  left: 1100px;
+}
+
+.social-media-linkblogs a{
+  margin-left: 30px;
+}
+
+.footerlinks1blogs ul li a:hover{
+  color: #9EC1D7;
+}
+
+.social-media-linkblogs img{
+  width: 40px;
+}
+
+
+/*footer tips page*/
+
+.footerlinks1tips ul{
+  position: absolute;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  margin-left: 550px;
+}
+
+.footerlinks1tips ul li{
+  display: inline-block;
+  margin: 0 10px;
+  margin-top: 890px;
+}
+
+.footerlinks1tips ul li a{
+  text-decoration: none;
+  color: #edf1ee;
+  display: block;
+}
+
+.footerlinks1tips ul li a:hover{
+  color: #9EC1D7;
+}
+
+
+/*footer SC*/
+
+.footerimagelogoSC{
+  position: absolute;
+  bottom: -250px;
+  margin-left: 25px;
+  width: 20%;
+}
+
+.footerlinks1SC ul{
+  position: absolute;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  margin-left: 550px;
+}
+
+.footerlinks1SC ul li{
+  display: inline-block;
+  margin: 0 10px;
+  margin-top: 880px;
+}
+
+.footerlinks1SC ul li a{
+  text-decoration: none;
+  color: #edf1ee;
+  display: block;
+}
+
+.footerboxSC{
+  position: absolute;
+  bottom: -300px;
+  left: 0px;
+  background-color: #16465A;
+  width: 100%;
+  height: 130px;
+}
+.socialsSC{
+  display: flex;
+  position: absolute;
+  bottom: -250px;
+  left: 1100px;
+}
+
+.social-media-linkSC a{
+  margin-left: 30px;
+}
+
+.footerlinks1SC ul li a:hover{
+  color: #9EC1D7;
+}
+
+.social-media-linkSC img{
+  width: 40px;
+}
+
+/*footer Milan*/
+
+.footerlinks1Milan ul{
+  position: absolute;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  margin-left: 550px;
+}
+
+.footerlinks1Milan ul li{
+  display: inline-block;
+  margin: 0 10px;
+  margin-top: 1390px;
+}
+
+.footerlinks1Milan ul li a{
+  text-decoration: none;
+  color: #edf1ee;
+  display: block;
+}
+
+.footerlinks1Milan ul li a:hover{
+  color: #9EC1D7;
+}

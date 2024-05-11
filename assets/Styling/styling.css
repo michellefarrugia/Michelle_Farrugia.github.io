@@ -214,7 +214,8 @@ nav ul li a:hover{
   .subscribebutton{
     padding: 1px 5px;
     position: absolute;
-    bottom: -715px;
+    text-decoration: none;
+    bottom: -725px;
     right: 100px;
     background-color: #654039;
     color: #edf1ee;
@@ -364,6 +365,7 @@ nav ul li a:hover{
 .subscribebutton2{
   padding: 1px 5px;
   position: absolute;
+  text-decoration: none;
   bottom: -670px;
   right: 100px;
   background-color: #654039;
@@ -631,26 +633,8 @@ button[type="submit"] {
   color: #16465a;
   text-align: center;
   position: absolute;
-  top: 250px;
-  left: 500px;
-}
-
-.packinglistimage-left2{
-  position: absolute;
-  top: 250px;
-  height: 1226px;
-  object-fit: cover;
-  left: 70px;
-  width: 300px;
-}
-
-.packinglistimage-right2{
-  position: absolute;
-  top: 250px;
-  height: 1226px;
-  object-fit: cover;
-  right: 70px;
-  width: 300px;
+  top: 450px;
+  left: 550px;
 }
 
 
@@ -974,7 +958,7 @@ button[type="submit"] {
 .footerlinks1index ul li{
   display: inline-block;
   margin: 0 10px;
-  margin-top: 900px;
+  margin-top: 870px;
 }
 
 .footerlinks1index ul li a{
@@ -1030,7 +1014,7 @@ button[type="submit"] {
 .footerlinks1blogs ul li{
   display: inline-block;
   margin: 0 10px;
-  margin-top: 1530px;
+  margin-top: 1510px;
 }
 
 .footerlinks1blogs ul li a{
@@ -1114,7 +1098,7 @@ button[type="submit"] {
 .footerlinks1SC ul li{
   display: inline-block;
   margin: 0 10px;
-  margin-top: 880px;
+  margin-top: 860px;
 }
 
 .footerlinks1SC ul li a{
@@ -1163,7 +1147,7 @@ button[type="submit"] {
 .footerlinks1Milan ul li{
   display: inline-block;
   margin: 0 10px;
-  margin-top: 1390px;
+  margin-top: 1370px;
 }
 
 .footerlinks1Milan ul li a{
